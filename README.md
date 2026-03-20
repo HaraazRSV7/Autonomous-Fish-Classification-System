@@ -64,7 +64,7 @@ The system integrates **computer vision, embedded control, and sensor fusion** t
 ---
 
 ## 📷 System Images
-
+![System Design](system_design.jpg)
 
 ---
 
