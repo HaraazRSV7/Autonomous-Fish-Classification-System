@@ -96,4 +96,4 @@ autonomous-fish-classification-system/
 
 ## 👤 Author
 
-**Ravi Sankar**
+**Ravisankar V**
