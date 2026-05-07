@@ -66,14 +66,13 @@ The system integrates **computer vision, embedded control, and sensor fusion** t
 ## 📷 System Images
 
 ### 🔧 Components
-![Components](images/Components.jpeg)
+![Components](Components.jpeg)
 
 ### ⚙️ Setup
-![Setup](images/Setup.jpeg)
+![Setup](Setup.jpeg)
 
 ### 🖥️ Output Preview
-![Preview](images/Preview.jpeg)
-
+![Preview](Preview.jpeg)
 ---
 
 ## 🎥 Demo Video
